@@ -1,0 +1,7 @@
+.topBarElement {
+  border-bottom: 2px solid transparent;
+}
+
+.topBarElement:hover {
+  border-bottom: 2px solid var(--underline);
+}

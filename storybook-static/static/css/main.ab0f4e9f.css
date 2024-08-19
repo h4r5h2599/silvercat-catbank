@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "montserrat";
+  src: url(../../c28a96c369871653b853.ttf);
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "montserrat", sans-serif;
+}
+
+
+/*# sourceMappingURL=main.ab0f4e9f.css.map*/

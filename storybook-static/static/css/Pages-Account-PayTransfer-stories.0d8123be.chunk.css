@@ -1,0 +1,35 @@
+
+.buttonAccent {
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0);
+}
+
+.buttonAccent:hover {
+  box-shadow: 0px 0px 10px var(--accent);
+}
+
+.testimonial {
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0);
+}
+
+.testimonial:hover {
+  box-shadow: 0px 0px 10px var(--accent);
+}
+
+.transactionIn {
+  background-color: rgba(0, 255, 0, 0.1);
+}
+
+.transactionOut {
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
+.payee {
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0);
+}
+
+.payee:hover {
+  box-shadow: 0px 0px 10px var(--pText);
+}
+
+
+/*# sourceMappingURL=Pages-Account-PayTransfer-stories.0d8123be.chunk.css.map*/

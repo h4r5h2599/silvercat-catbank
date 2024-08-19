@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "accountNumber": "12345678",
+    "sortCode": "12-34-56"
+  },
+  {
+    "name": "Jane Smith",
+    "accountNumber": "23456789",
+    "sortCode": "23-45-67"
+  },
+  {
+    "name": "Emily Johnson",
+    "accountNumber": "34567890",
+    "sortCode": "34-56-78"
+  },
+  {
+    "name": "Michael Brown",
+    "accountNumber": "45678901",
+    "sortCode": "45-67-89"
+  },
+  {
+    "name": "Jessica Davis",
+    "accountNumber": "56789012",
+    "sortCode": "56-78-90"
+  },
+  {
+    "name": "William Wilson",
+    "accountNumber": "67890123",
+    "sortCode": "67-89-01"
+  },
+  {
+    "name": "Olivia Taylor",
+    "accountNumber": "78901234",
+    "sortCode": "78-90-12"
+  },
+  {
+    "name": "Daniel Lee",
+    "accountNumber": "89012345",
+    "sortCode": "89-01-23"
+  },
+  {
+    "name": "Sophia Harris",
+    "accountNumber": "90123456",
+    "sortCode": "90-12-34"
+  },
+  {
+    "name": "James Martin",
+    "accountNumber": "01234567",
+    "sortCode": "01-23-45"
+  }
+]
